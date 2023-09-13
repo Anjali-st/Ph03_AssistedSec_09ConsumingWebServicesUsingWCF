@@ -1,0 +1,7 @@
+D:\DotNet\Ph_03AssistedProjects\Sec_09Consuming Web Services Using WCF\ConsumingWebServiceUsingWcf\bin\Debug\ConsumingWebServiceUsingWcf.dll.config
+D:\DotNet\Ph_03AssistedProjects\Sec_09Consuming Web Services Using WCF\ConsumingWebServiceUsingWcf\bin\Debug\ConsumingWebServiceUsingWcf.dll
+D:\DotNet\Ph_03AssistedProjects\Sec_09Consuming Web Services Using WCF\ConsumingWebServiceUsingWcf\bin\Debug\ConsumingWebServiceUsingWcf.pdb
+D:\DotNet\Ph_03AssistedProjects\Sec_09Consuming Web Services Using WCF\ConsumingWebServiceUsingWcf\obj\Debug\ConsumingWebServiceUsingWcf.csproj.AssemblyReference.cache
+D:\DotNet\Ph_03AssistedProjects\Sec_09Consuming Web Services Using WCF\ConsumingWebServiceUsingWcf\obj\Debug\ConsumingWebServiceUsingWcf.csproj.CoreCompileInputs.cache
+D:\DotNet\Ph_03AssistedProjects\Sec_09Consuming Web Services Using WCF\ConsumingWebServiceUsingWcf\obj\Debug\ConsumingWebServiceUsingWcf.dll
+D:\DotNet\Ph_03AssistedProjects\Sec_09Consuming Web Services Using WCF\ConsumingWebServiceUsingWcf\obj\Debug\ConsumingWebServiceUsingWcf.pdb
